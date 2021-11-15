@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noyaustralia2017
 - 👀 I’m interested in web and database design
-- 🌱 I’m currently learning PHP, MYSQL, Haskell, HTML, CSS and JavaScript and Python
+- 🌱 I’m currently learning PHP, SQL, HTML, CSS and JavaScript and Python
 - 💞️ I’m looking to collaborate on creating dashboards, portals & websites
 
 <!---
